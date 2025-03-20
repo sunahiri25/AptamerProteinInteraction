@@ -1,0 +1,2 @@
+data/bpRNA.db filter=lfs diff=lfs merge=lfs -text
+data/protein_ss_keywords.db filter=lfs diff=lfs merge=lfs -text
